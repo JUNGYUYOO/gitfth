@@ -1,5 +1,9 @@
 function b()
 
+<<<<<<< HEAD
 function a(master)
+=======
+function a(exp)
+>>>>>>> exp
 
 function c()
